@@ -1,10 +1,7 @@
 # Questions / Programs
 
 ## Program 1
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f92228690188000b1d913c37b1086739cb3c232
 Write a program to monitor the status of two conference halls with respect to its capacity. The maximum seating/capacity of the hall is 30. Create a class by the name 'Conference Hall' with the following data members:
 i) Name of the conference hall
 ii) Availabilitiy of seats
@@ -17,10 +14,7 @@ iii) display() </br>
 Refer [MainConference.java](MainConference.java)
 
 ## Program 2
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f92228690188000b1d913c37b1086739cb3c232
 Write a java program to show bank transaction by defining class called 'BankAccount' with the following data members: </br>
 i) Account number </br>
 ii) Customer Name </br>
@@ -34,10 +28,7 @@ ii) Display balance amount </br>
 Refer [MainBank.java](MainBank.java)
 
 ## Program 3
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f92228690188000b1d913c37b1086739cb3c232
 Write a program to create a class called 'Student' with the following data members: </br>
 i) Name </br>
 ii) Register number </br>
@@ -51,10 +42,7 @@ iii) Display student details </br>
 Refer [MainStudent.java](MainStudent.java)
 
 ## Program 4
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f92228690188000b1d913c37b1086739cb3c232
 Write a program to create a class called 'Employee' for the following data members: </br>
 i) Employee number </br>
 ii) Name </br>
@@ -69,10 +57,7 @@ In the main function, find the employee who earns the maximum salary.
 Refer [MainEmployee.java](MainEmployee.java)
 
 ## Program 5
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f92228690188000b1d913c37b1086739cb3c232
 Write a java program to display the details of specified train by creating a class called 'Train' for the following data members: </br>
 i) Train number </br>
 ii) Train name </br>
