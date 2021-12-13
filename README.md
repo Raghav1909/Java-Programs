@@ -1,5 +1,5 @@
 # Java-Programs
-This folder contains 5 java programs. Refer QUESTIONS.md to see the questions of different programs.
+This folder contains 5 java programs. Refer [QUESTIONS.md](QUESTIONS.md) to see the )questions of different programs.
 
 ## How to download the files
 1. Open the repository on your laptop/PC.
