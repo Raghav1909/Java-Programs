@@ -1,3 +1,15 @@
+/*Write a program to create a class called 'Employee' for the following data members:
+i) Employee number
+ii) Name
+iii) Salary
+
+Define the following methods to peform the following functions:
+i) Input data to instance variable
+ii) Display the details of an employee
+
+In the main function, find the employee who earns the maximum salary.
+*/
+
 import java.util.Scanner;
 
 class Employee {

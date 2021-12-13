@@ -1,3 +1,14 @@
+/*Write a java program to show bank transaction by defining class called 'BankAccount' with the following data members:
+i) Account number
+ii) Customer Name
+iii) Balance amount
+
+Define the following the operations:
+i) Deposit amount
+ii) Withdraw amount
+ii) Display balance amount
+*/
+
 class BankAccount {
     long accNo, bal;
     String name;

@@ -1,3 +1,17 @@
+
+/* Write a java program to display the details of specified train by creating a class called 'Train' for the following data members:
+i) Train number
+ii) Train name
+iii) Source
+iv) Destination
+
+Define the following methods to perform the following functions:
+i) Input train details
+ii) Display train details
+
+In main function, display the details of the train for the given source and destination value.
+*/
+
 import java.util.Scanner;
 
 class Train {

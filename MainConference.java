@@ -1,3 +1,11 @@
+/*Write a program to monitor the status of two conference halls with respect to its capacity. The maximum seating/capacity of the hall is 30. Create a class by the name 'Conference Hall' with the following data members: i) Name of the conference hall ii) Availabilitiy of seats
+
+Update the seat availability in each hall as and when a person enters and leaves the hall. To do that implement the following methods:
+i) enterHall()
+ii) exitHall()
+iii) display()
+*/
+
 class ConferenceHall {
     String name;
     int availSeats;

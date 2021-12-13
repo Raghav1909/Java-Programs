@@ -1,3 +1,14 @@
+/*Write a program to create a class called 'Student' with the following data members:
+i) Name
+ii) Register number
+iii) Marks of three subjects
+
+Define the following methods to perform the following functions:
+i) Input the data to instance variable
+ii) Calculate the average of three subjects
+iii) Display student details
+*/
+
 import java.util.Scanner;
 
 class Student {
