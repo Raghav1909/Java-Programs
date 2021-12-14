@@ -39,7 +39,7 @@ public class MainEmployee {
     public static void main(String args[]) {
         Employee e[] = new Employee[10];
         Scanner ip = new Scanner(System.in);
-        System.out.println("Enter the number of : ");
+        System.out.println("Enter the number of employees: ");
         int n = ip.nextInt();
 
         for (int i = 0; i < n; i++)
