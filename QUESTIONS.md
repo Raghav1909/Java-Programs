@@ -71,3 +71,9 @@ ii) Display train details </br>
 In main function, display the details of the train for the given source and destination value.
 
 Refer [MainTrain.java](MainTrain.java)
+
+## Program 6
+
+Write a java program to show single inheritance.
+
+Refer [SingleInheritance.java](SingleInheritance.java)
