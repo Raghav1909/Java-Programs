@@ -1,3 +1,5 @@
+// Write a java program to show single inheritance.
+
 class Person {
     String name;
     int age;
