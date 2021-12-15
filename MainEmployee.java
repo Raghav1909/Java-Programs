@@ -3,7 +3,7 @@ i) Employee number
 ii) Name
 iii) Salary
 
-Define the following methods to peform the following functions:
+Define the following methods to perform the following functions:
 i) Input data to instance variable
 ii) Display the details of an employee
 

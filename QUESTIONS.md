@@ -48,7 +48,7 @@ i) Employee number </br>
 ii) Name </br>
 iii) Salary </br>
 
-Define the following methods to peform the following functions: </br>
+Define the following methods to perform the following functions: </br>
 i) Input data to instance variable </br>
 ii) Display the details of an employee </br>
 
