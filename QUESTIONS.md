@@ -77,3 +77,9 @@ Refer [MainTrain.java](MainTrain.java)
 Write a java program to show single inheritance.
 
 Refer [SingleInheritance.java](SingleInheritance.java)
+
+## Program 7
+
+Write a java program to show multi-level inheritance.
+
+Refer [MultiLevelInheritance.java](MultiLevelInheritance.java)
