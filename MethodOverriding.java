@@ -1,3 +1,5 @@
+// Write a java program to show method overriding.
+
 class X {
     void display() {
         System.out.println("This is class X");
