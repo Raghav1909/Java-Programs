@@ -83,3 +83,9 @@ Refer [SingleInheritance.java](SingleInheritance.java)
 Write a java program to show multi-level inheritance.
 
 Refer [MultiLevelInheritance.java](MultiLevelInheritance.java)
+
+## Program 8
+
+Write a java program to show method overriding.
+
+Refer [MethodOverriding.java](MethodOverriding.java)
