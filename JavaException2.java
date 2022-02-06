@@ -1,3 +1,5 @@
+// Write a java program to show ArrayIndexOutOfBoundsException
+
 public class JavaException2 {
     public static void main(String[] args) {
         try {
