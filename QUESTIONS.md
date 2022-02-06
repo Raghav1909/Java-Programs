@@ -86,6 +86,31 @@ Refer [MultiLevelInheritance.java](MultiLevelInheritance.java)
 
 ## Program 8
 
+Write a java program to show heirarchical inheritance.
+
+Refer [HeirarchicalInheritance.java](HeirarchicalInheritance.java)
+
+## Program 9
+
 Write a java program to show method overriding.
 
 Refer [MethodOverriding.java](MethodOverriding.java)
+
+## Program 10
+
+Write a java program to show implementation of interfaces.
+
+Refer [MainInterface.java](MainInterface.java)
+
+## Program 11
+
+Write a program of enumeration with string objects as arguments.
+
+Refer [StudentDataEx.java](StudentDataEx.java)
+
+## Program 12
+
+Write a program with enum constants as switch case values.
+
+Refer [EnumExSwitch.java](EnumExSwitch.java)
+
