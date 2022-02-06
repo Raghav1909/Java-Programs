@@ -120,3 +120,10 @@ Write a program with enum constants as switch case values.
 
 Refer [EnumExSwitch.java](EnumExSwitch.java)
 
+## Program 14
+
+Write a program to make a package Balance in which has an Account class with
+Display_Balance method in it.Import Balance package in another program to
+access the Display_Balance method of Account class.
+
+Refer [PackageExample.java](PackageExample.java)
