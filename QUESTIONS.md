@@ -86,9 +86,9 @@ Refer [MultiLevelInheritance.java](MultiLevelInheritance.java)
 
 ## Program 8
 
-Write a java program to show heirarchical inheritance.
+Write a java program to show hierarchical inheritance.
 
-Refer [HeirarchicalInheritance.java](HeirarchicalInheritance.java)
+Refer [HierarchicalInheritance.java](HierarchicalInheritance.java)
 
 ## Program 9
 
