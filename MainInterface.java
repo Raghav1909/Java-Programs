@@ -2,6 +2,7 @@
 
 interface interfaceA {
     void methodA();
+
 }
 
 interface interfaceB {
@@ -10,14 +11,22 @@ interface interfaceB {
 
 class MultiInterface implements interfaceA, interfaceB {
     public void methodA() {
-        System.out.print("Abstract method of interface A");
+        System.out.println("Abstract method of interface A");
     }
 
     public void methodB() {
-        System.out.print("Abstract method of interface B");
+        System.out.println("Abstract method of interface B");
     }
 
     void display() {
         System.out.println("");
+    }
+}
+
+class MainInterface {
+    public static void main(String args[]) {
+        MultiInterface m = new MultiInterface();
+        m.methodA();
+        m.methodB();
     }
 }

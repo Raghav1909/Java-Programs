@@ -1,6 +1,8 @@
+// Write a java program to show how access specifier work across classes.
+
 class A {
     private int p; // Since p is a private variable, it cannot be accessed by subclasses or other
-                   // packages.
+    // packages.
     int q;
     protected int r;
     public int s;
