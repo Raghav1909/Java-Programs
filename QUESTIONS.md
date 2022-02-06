@@ -98,17 +98,23 @@ Refer [MethodOverriding.java](MethodOverriding.java)
 
 ## Program 10
 
+Write a java program to show how access specifier work across classes.
+
+Refer [AccessSpecifier.java](AccessSpecifier.java)
+
+## Program 11
+
 Write a java program to show implementation of interfaces.
 
 Refer [MainInterface.java](MainInterface.java)
 
-## Program 11
+## Program 12
 
 Write a program of enumeration with string objects as arguments.
 
 Refer [StudentDataEx.java](StudentDataEx.java)
 
-## Program 12
+## Program 13
 
 Write a program with enum constants as switch case values.
 
