@@ -127,3 +127,16 @@ Display_Balance method in it.Import Balance package in another program to
 access the Display_Balance method of Account class.
 
 Refer [PackageExample.java](PackageExample.java)
+
+## Program 15
+
+Write a java program to show ArithmeticException
+
+Refer [JavaException1.java](JavaException1.java)
+
+## Program 16
+
+Write a java program to show ArrayIndexOutOfBoundsException
+
+Refer [JavaException2.java](JavaException2.java)
+
