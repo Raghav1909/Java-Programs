@@ -1,3 +1,5 @@
+// Write a program with enum constants as switch case values.
+
 enum GeoShape {
     TRIANGLE, SQUARE, RECTANGLE;
 }

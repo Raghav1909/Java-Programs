@@ -1,3 +1,5 @@
+// Write a program of enumeration with string objects as arguments.
+
 enum StudentData {
     HARI(80, "Promoted to 5th class"), RITA(80, "Promoted to 6th class"), SAM(80, "Promoted to 5th class");
 

@@ -1,3 +1,5 @@
+// Write a java program to show heirarchical inheritance.
+
 class Animal {
     void eat() {
         System.out.println("eating...");
