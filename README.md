@@ -1,6 +1,6 @@
 # Java-Programs
 
-This folder contains 16 java programs. Refer [QUESTIONS.md](QUESTIONS.md) to see the questions of different programs.
+This folder contains 16 java programs. Refer [QUESTIONS](QUESTIONS.md) to see the questions of different programs.
 
 ## How to download the files
 
