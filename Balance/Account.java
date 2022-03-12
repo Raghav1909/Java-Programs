@@ -1,4 +1,4 @@
-package Balance;
+package balance;
 
 public class Account {
     int Balance;
