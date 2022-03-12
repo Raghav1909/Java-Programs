@@ -2,7 +2,7 @@
 // Display_Balance method in it.Import Balance package in another program to
 // access the Display_Balance method of Account class.
 
-import Balance.Account;
+import balance.Account;
 
 public class PackageExample {
     public static void main(String[] args) {
